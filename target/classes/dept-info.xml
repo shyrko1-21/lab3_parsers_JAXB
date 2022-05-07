@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<company>
+    <compName>3X</compName>
+    <departments>
+        <department>
+            <deptNo>D01</deptNo>
+            <deptName>ACCOUNTING</deptName>
+            <location>NEW YORK</location>
+            <employees>
+                <employee>
+                    <empNo>E01</empNo>
+                    <empName>Tom</empName>
+                </employee>
+                <employee>
+                    <empNo>E02</empNo>
+                    <empName>Mary</empName>
+                    <managerNo>E01</managerNo>
+                </employee>
+                <employee>
+                    <empNo>E03</empNo>
+                    <empName>John</empName>
+                </employee>
+            </employees>
+        </department>
+        <department>
+            <deptNo>D02</deptNo>
+            <deptName>SALES</deptName>
+            <location>PARIS</location>
+            <employees>
+                <employee>
+                    <empNo>P01</empNo>
+                    <empName>Jack</empName>
+                </employee>
+                <employee>
+                    <empNo>P02</empNo>
+                    <empName>Bob</empName>
+                </employee>
+                <employee>
+                    <empNo>P03</empNo>
+                    <empName>Jora</empName>
+                </employee>
+            </employees>
+        </department>
+    </departments>
+
+</company>
